@@ -1,4 +1,3 @@
-```markdown
 # Projeto de Gerenciamento de Energia  
 
 Este projeto fornece uma API REST para gerenciar instalações, contratos, consumo e produção de energia, utilizando o banco de dados H2 e comandos do Gradle para execução.
