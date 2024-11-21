@@ -4,6 +4,14 @@ Este projeto fornece uma API REST para gerenciar instalações, contratos, consu
 
 ---
 
+## 🛠️ Integrantes  
+
+Gabriel Marquez Trevisan -- 99227
+Enricco Rossi de Souza Carvalho Miranda -- RM551717
+---
+
+---
+
 ## 🛠️ Tecnologias Utilizadas  
 
 - **Java 17**
